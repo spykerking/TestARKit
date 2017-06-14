@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4AFAC83D1EEF91A5007F2CE7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFAC83C1EEF91A5007F2CE7 /* AppDelegate.m */; };
-		4AFAC83F1EEF91A5007F2CE7 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFAC83E1EEF91A5007F2CE7 /* art.scnassets */; };
+		4AFAC83F1EEF91A5007F2CE7 /* air.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFAC83E1EEF91A5007F2CE7 /* air.scnassets */; };
 		4AFAC8421EEF91A5007F2CE7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFAC8411EEF91A5007F2CE7 /* ViewController.m */; };
 		4AFAC8451EEF91A5007F2CE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AFAC8431EEF91A5007F2CE7 /* Main.storyboard */; };
 		4AFAC8471EEF91A5007F2CE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFAC8461EEF91A5007F2CE7 /* Assets.xcassets */; };
@@ -16,6 +16,7 @@
 		4AFAC84D1EEF91A5007F2CE7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFAC84C1EEF91A5007F2CE7 /* main.m */; };
 		4AFAC8571EEF91A6007F2CE7 /* TestARKitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFAC8561EEF91A6007F2CE7 /* TestARKitTests.m */; };
 		4AFAC8621EEF91A6007F2CE7 /* TestARKitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFAC8611EEF91A6007F2CE7 /* TestARKitUITests.m */; };
+		4AFAC8701EEFAF06007F2CE7 /* horse.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFAC86F1EEFAF06007F2CE7 /* horse.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +40,7 @@
 		4AFAC8381EEF91A5007F2CE7 /* TestARKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestARKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AFAC83B1EEF91A5007F2CE7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4AFAC83C1EEF91A5007F2CE7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		4AFAC83E1EEF91A5007F2CE7 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		4AFAC83E1EEF91A5007F2CE7 /* air.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = air.scnassets; sourceTree = "<group>"; };
 		4AFAC8401EEF91A5007F2CE7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4AFAC8411EEF91A5007F2CE7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4AFAC8441EEF91A5007F2CE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -53,6 +54,7 @@
 		4AFAC85D1EEF91A6007F2CE7 /* TestARKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestARKitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AFAC8611EEF91A6007F2CE7 /* TestARKitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestARKitUITests.m; sourceTree = "<group>"; };
 		4AFAC8631EEF91A6007F2CE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AFAC86F1EEFAF06007F2CE7 /* horse.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = horse.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +107,7 @@
 			children = (
 				4AFAC83B1EEF91A5007F2CE7 /* AppDelegate.h */,
 				4AFAC83C1EEF91A5007F2CE7 /* AppDelegate.m */,
-				4AFAC83E1EEF91A5007F2CE7 /* art.scnassets */,
+				4AFAC83E1EEF91A5007F2CE7 /* air.scnassets */,
 				4AFAC8401EEF91A5007F2CE7 /* ViewController.h */,
 				4AFAC8411EEF91A5007F2CE7 /* ViewController.m */,
 				4AFAC8431EEF91A5007F2CE7 /* Main.storyboard */,
@@ -113,6 +115,7 @@
 				4AFAC8481EEF91A5007F2CE7 /* LaunchScreen.storyboard */,
 				4AFAC84B1EEF91A5007F2CE7 /* Info.plist */,
 				4AFAC84C1EEF91A5007F2CE7 /* main.m */,
+				4AFAC86F1EEFAF06007F2CE7 /* horse.scnassets */,
 			);
 			path = TestARKit;
 			sourceTree = "<group>";
@@ -238,8 +241,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4AFAC83F1EEF91A5007F2CE7 /* art.scnassets in Resources */,
+				4AFAC83F1EEF91A5007F2CE7 /* air.scnassets in Resources */,
 				4AFAC84A1EEF91A5007F2CE7 /* LaunchScreen.storyboard in Resources */,
+				4AFAC8701EEFAF06007F2CE7 /* horse.scnassets in Resources */,
 				4AFAC8471EEF91A5007F2CE7 /* Assets.xcassets in Resources */,
 				4AFAC8451EEF91A5007F2CE7 /* Main.storyboard in Resources */,
 			);
@@ -522,6 +526,7 @@
 				4AFAC8681EEF91A6007F2CE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AFAC8691EEF91A6007F2CE7 /* Build configuration list for PBXNativeTarget "TestARKitTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +535,7 @@
 				4AFAC86B1EEF91A6007F2CE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AFAC86C1EEF91A6007F2CE7 /* Build configuration list for PBXNativeTarget "TestARKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +544,7 @@
 				4AFAC86E1EEF91A6007F2CE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
